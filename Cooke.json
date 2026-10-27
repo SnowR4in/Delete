@@ -1,0 +1,28 @@
+[
+    {
+        "domain": "surveygpt.com",
+        "expirationDate": 1793108906.415179,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "XSRF-TOKEN",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6Imcra1VNbVFyMWswUHBLN09pL2YxTlE9PSIsInZhbHVlIjoiSGxsUk94aS9MUzk2c3U1SHRIRG5JaHdKRjd4bkc3b3pVUWZjUzNpaFVFdHJqWXZIbjk0a3dkV2dYa09ZRmdVMlZxN01hVkRKcS83dDE5c3Rnek9IaCtseUt0bXZjbzZ4eUl3OXloelR3b3RPbldUcUhRZmxMa0hWOXkrYU1MamUiLCJtYWMiOiIzZTFkODkxOTYxZDk2Yzg4MTExZjhhNDc1MDBkZjhhNWMxZTdiNDY0MTgzN2RkNjgyYTU1ZjkyZDY4YjdjNjEwIiwidGFnIjoiIn0%3D"
+    },
+    {
+        "domain": "surveygpt.com",
+        "expirationDate": 1793108906.415442,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "surveygpt-session",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6IkQ0RUpHZUZMNXpWZmg4ZjA0bmRON1E9PSIsInZhbHVlIjoiWTBPalhsUDFtL25VWHZzR1ZGVlFPYzdOOFZQWk5ML1AyUHc4RFlyQW5ZZ2hyam9MamQxTGltT3lZd0NNMmR1VXdIci81OTJjM2hWbll5RFBlUnNYTTNlSGZ4bHZ0MEJnOVJHTDllc0ZCZ3JXMWNsbUFwSDlHSk5JYW9MR0JPd0MiLCJtYWMiOiJhMmE1M2E5NzQ3MmFhNjEyYjhhN2E1YzM2Mjg4ZDUzZjE2MTI1Nzg2MDI4NjhhMjllM2U3OWM3ZDQxZThlZmNiIiwidGFnIjoiIn0%3D"
+    }
+]
